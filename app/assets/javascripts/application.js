@@ -21,3 +21,4 @@
 //= require scrollreveal/scrollreveal.min
 //= require magnific-popup/jquery.magnific-popup.min
 //= require creative.min
+//= require coming-soon.min
