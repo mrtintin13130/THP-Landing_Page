@@ -20,4 +20,4 @@
 //= require jquery-easing/jquery.easing.min
 //= require scrollreveal/scrollreveal.min
 //= require magnific-popup/jquery.magnific-popup.min
-//= require creative.min
+//= require assets/javascript/creative.min
