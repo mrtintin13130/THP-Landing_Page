@@ -12,7 +12,7 @@ Rails.application.config.assets.paths << Rails.root.join('vendor', 'jquery')
 Rails.application.config.assets.paths << Rails.root.join('vendor', 'fontawesome-free', 'css')
 Rails.application.config.assets.paths << Rails.root.join('lib')
 Rails.application.config.assets.paths << Rails.root.join('lib', 'assets', 'javascript')
-Rails.application.config.assets.paths << Rails.root.join('images')
+Rails.application.config.assets.paths << Rails.root.join('assets', 'images')
 
 
 # Precompile additional assets.
