@@ -1,23 +1,14 @@
-# README
+# Landing Pages
+## Production
+Lien du site en production (landing page 1): [Cliquez ici](https://thp-landing-page-seille.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Lien du site en production (landing page 2): [Cliquez ici](https://thp-landing-page-seille.herokuapp.com/city)
 
-Things you may want to cover:
+## Groupe
+Stéphane (Github user: Timmo404)
 
-* Ruby version
+Elliot (Github user: nomoon456)
 
-* System dependencies
+Mickael (Github user: jango974)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+Martin (Github user: mrtintin13130)
