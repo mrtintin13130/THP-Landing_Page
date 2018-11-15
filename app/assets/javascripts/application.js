@@ -14,9 +14,10 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+//
 //= require jquery/jquery.min
 //= require bootstrap/js/bootstrap.bundle.min
 //= require jquery-easing/jquery.easing.min
 //= require scrollreveal/scrollreveal.min
 //= require magnific-popup/jquery.magnific-popup.min
-//= require assets/javascript/creative.min
+//= require creative.min
