@@ -4,4 +4,6 @@ class StaticController < ApplicationController
   	puts "je follow "
   end
 
+  def newsletter
+  end
 end
